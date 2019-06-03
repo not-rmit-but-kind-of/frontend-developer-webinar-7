@@ -1,7 +1,3 @@
-# frontend-developer-webinar-7
-Building Advanced Front End Apps
-
-
 # DEV102 Expert Webinar 07 Building Advanced Front End Apps
 
 ## Greetings - David and Ben
